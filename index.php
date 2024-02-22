@@ -27,6 +27,9 @@
     include "team_section.php";
     ?>
     <?php
+    include "favourite_books.php";
+    ?>
+    <?php
     include "footer.php";
     ?>
     

@@ -24,6 +24,9 @@
     include "featured_catagories.php";
     ?>
     <?php
+    include "team_section.php";
+    ?>
+    <?php
     include "footer.php";
     ?>
     

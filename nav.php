@@ -13,13 +13,13 @@
             <div class="flex-1">
                 <a class="btn btn-ghost text-xl">BITBOOKBAZAR</a>
             </div>
-            <div class="flex-none gap-2">
-                <div class="flex-1 gap-x-4 text-xl  bold   mr-64">
-                    <a href="index.php">HOME</a>
-                    <a href="">EBOOKS</a>
-                    <a href="">CATAGORIES</a>
-                    <a href="">CONTACT</a>
-                    <a href="">SHOPPING CART</a>
+            <div class="flex-none gap-4">
+                <div class="flex-1 p-3   bold   mr-64">
+                    <a href="index.php">Home</a>
+                    <a href="ebook.php">Ebooks</a>
+                    <a href="">Catagories</a>
+                    <a href="contact.php">Contact</a>
+                    <a href="">Shoping cart</a>
                 </div>
                 <div class="form-control text-black">
                     <input type="text" placeholder="Search" class="input input-bordered w-24 md:w-auto" />
@@ -36,6 +36,8 @@
                         class="mt-3 z-[1] p-2 shadow menu menu-sm dropdown-content bg-black rounded-box w-52">
                         
                         <li><a>Logout</a></li>
+                        <li><input type="checkbox" value="synthwave" class="toggle theme-controller"/></li>
+                        
                     </ul>
                 </div>
             </div>

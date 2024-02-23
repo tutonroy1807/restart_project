@@ -30,6 +30,9 @@
     include "favourite_books.php";
     ?>
     <?php
+    include "scroll_view_catagories.php";
+    ?>
+    <?php
     include "footer.php";
     ?>
     
